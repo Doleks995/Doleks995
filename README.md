@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doleks995
 - 👀 I’m interested in systems biology and bio fabrication
-- 🌱 I’m currently learning molecular and cellular biology
+- 🌱 I’m currently learning medical neuroscience, organismic biology, PyMol, systems biology
 - 💞️ I’m looking to collaborate on 3D modeling projects
 - 📫 How to reach me: dao995@g.harvard.edu
 - 😄 Pronouns: he/him
