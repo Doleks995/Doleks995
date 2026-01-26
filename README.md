@@ -1,4 +1,4 @@
-# David Oleksy
+# David Paul Oleksy
 
 Harvard University undergraduate studying Biology with team-based and independent research experience. Strong
 leadership and project management developed through entrepreneurship. Skills in team management, computer programming,
