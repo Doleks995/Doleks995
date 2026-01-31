@@ -1,54 +1,46 @@
 # David Paul Oleksy
 
-Harvard University undergraduate studying Biology with team-based and independent research experience. Strong
-leadership and project management developed through entrepreneurship. Skills in team management, computer programming,
-additive manufacturing (3D-printing), and computational biology. Always looking to broaden horizons in data science and innovation
+Harvard University undergraduate studying Biology with hands-on experience in research, software systems, and additive manufacturing workflows.
 
-## Core Domains
+## Domains
 
-- Clinical data analysis and early-stage clinical ML research  
-- Computational biology and CPU-based biological modeling  
-- Additive manufacturing systems and rapid prototyping workflows  
-- Technical product architecture and execution
+- Clinical data analysis, biomarker extraction, and early-stage clinical ML  
+- Computational biology, stochastic modeling, and bioinformatics workflows  
+- Additive manufacturing systems and rapid prototyping  
+- Technical product architecture, operations, and execution  
 
 ---
 
 ## Active Work
 
-
-### PPDM Clinical NLP and Machine Learning (MGH, Broad Institute BioBank)
+### PPDM Clinical NLP and Machine Learning (MGH & Broad Institute BioBank)
 **Extracting Post-Pancreatitis Diabetes Mellitus Features from Clinical Data Using Natural Language Processing and Machine Learning**
 
-- Developing an institution-contained NLP and ML pipeline to extract PPDM-relevant features from unstructured clinical documents
-- Domain-adaptive language model training on Massachusetts General Hospital's BioBank clinical text with token-level entity extraction
-- HIPAA-aligned processing and de-identification controls
+- Designing an institution-contained NLP and ML for unstructured clinical documentation  
+- Secure data handling with HIPAA-aligned tokenization, de-identification, and access controls  
+- Applied data analysis, database structuring, and clinical documentation review  
 
 https://davidoleksyproposal.com/
 
-
 ---
-
 
 ### Sebra Health
 **Clinical trial discovery and patient–trial matching platform**
 
-- HIPAA-aware backend architecture for medical record ingestion, tokenization, and secure processing
-- NLP extraction and matching logic to map patients to eligibility criteria and flag partial matches
-- Technical architecture and product direction
-
+- Eligibility extraction and rule-based plus probabilistic matching logic
+- Database design, API development, and product-level technical strategy  
+- Cross-functional coordination across engineering, clinical, and business stakeholders  
 
 [![Sebra Health](https://img.shields.io/badge/Sebra%20Health-sebrahealth.com-111827?style=for-the-badge)](https://sebrahealth.com/)
 
-
 ---
-
 
 ### Doleks Labs
 **Precision additive manufacturing and rapid prototyping**
 
-- Multi-material FDM and SLA production workflows with a focus on repeatability and quality control
-- Custom printer design, CAD-to-part pipelines, and operational tooling (quoting, order tracking, invoicing)
-
+- Multi-material FDM and SLA manufacturing with emphasis on repeatability, QA, and process control  
+- CAD, CAM, and CNC-adjacent DMF for optimal production and manufacturability  
+- Business operations, including quoting systems, part tracking, invoicing, and supply chain coordination  
 
 [![Doleks Labs](https://img.shields.io/badge/Doleks%20Labs-dolekslabs.com-e18242?style=for-the-badge&labelColor=e18242&color=e18242&logoColor=000000)](https://dolekslabs.com/)
 
@@ -56,11 +48,24 @@ https://davidoleksyproposal.com/
 
 ## Technical Stack
 
-**Languages**  
-Python, JavaScript, SQL, Tailwinds, React, Rust, R, C, C#, C++
+**Programming and Data**  
+Python, R, SQL, JavaScript, C, C++, Rust, MATLAB  
+Data analytics, statistical modeling, Monte Carlo methods, Bayesian approaches, and visualization
 
-**Systems & Tools**  
-Flask, Django, REST APIs, data pipelines, scientific Python stack, Git/GitHub, PyMol
+**Computational and Scientific**  
+Bioinformatics, computational modeling, databases, bio-statistics, scientific computing  
+Scientific Python stack, PyMol, data pipelines, simulation frameworks
+
+**Engineering and Systems**  
+3D modeling, SolidWorks, Fusion 360, CAD/CAM, rapid prototyping, mechanical systems  
+Electronics exposure, device prototyping, product testing
+
+**Software and Infrastructure**  
+Flask, Django, REST APIs, Linux, Git/GitHub, software testing, deployment workflows
+
+**Research and Operations**  
+Assay development, exposure, lab documentation, scientific writing  
+Project management, operations, technical leadership, cross-team coordination
 
 ---
 
